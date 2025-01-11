@@ -18,7 +18,7 @@ This project allows you to showcase your Medium blog posts on your website. It c
 
 1. Clone the project:
 ```bash
-git clone https://github.com/username/medium-integration.git
+git clone https://github.com/efekurucay/Medium_integration_to_website
 ```
 
 2. Set your Medium username in `script.js`:
